@@ -1,0 +1,8 @@
+D:/Lab-19project/cmake-build-debug/CMakeFiles/Lab_19project.dir
+D:/Lab-19project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lab-19project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Lab-19project/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+D:/Lab-19project/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+D:/Lab-19project/cmake-build-debug/libs/data/CMakeFiles/data.dir
+D:/Lab-19project/cmake-build-debug/libs/data/CMakeFiles/edit_cache.dir
+D:/Lab-19project/cmake-build-debug/libs/data/CMakeFiles/rebuild_cache.dir
